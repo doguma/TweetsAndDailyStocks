@@ -1,8 +1,6 @@
 
-# LookBeforeYouLeap
-Leveraging predictive models to improve Automotive Safety and Travel Time
-
-Authors:  Hannah Do,  Kamil Sachryn           
+# Predict stock movement with Twitter data
+Prediction based on correlation between off-market twitter data and stock price movement in a daily basis
 
 - Collection of stock data and feature selection - 1
 
