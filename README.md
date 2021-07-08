@@ -8,3 +8,16 @@ Prediction based on correlation between off-market twitter data and stock price 
 
 - Combining the two datasets, feature scaling and selection for ML predictions and evaluation - 3
 
+
+
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp1.png?raw=true)
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp2.png?raw=true)
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp3.png?raw=true)
+
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp4.png?raw=true)
+
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp5.png?raw=true)
+
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp6.png?raw=true)
+
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp7.png?raw=true)
