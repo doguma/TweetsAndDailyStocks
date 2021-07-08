@@ -18,13 +18,19 @@ Prediction based on correlation between off-market twitter data and stock price 
 
 ![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp5.png?raw=true)
 
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/final_chart_nlp.png?raw=true)
+
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/different_classifiers.png?raw=true)
+
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/rf_column_importance.png?raw=true)
+
 ![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp6.png?raw=true)
 
 ![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/nlp7.png?raw=true)
 
 
-![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/final chart nlp.png?raw=true)
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/final_chart_nlp.png?raw=true)
 
-![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/different classifiers.png?raw=true)
+![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/different_classifiers.png?raw=true)
 
 ![Alt text](https://github.com/doguma/Predict-stock-movement-with-Twitter-data/blob/main/project%20slides/rf_column_importance.png?raw=true)
